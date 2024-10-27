@@ -1,2 +1,0 @@
-# luci-app-syncthing
-Syncthing
